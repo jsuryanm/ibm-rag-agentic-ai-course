@@ -2,7 +2,16 @@ langchain
 langchain-core
 langchain-groq 
 langchain-community
+langchain-classic
+langchain-experimental
+langchain-text-splitters
+langchain-chroma
+langchain-huggingface
 groq 
 python-dotenv
 ipykernel 
 notebook
+pypdf
+chromadb
+sentence-transformers
+transformers
